@@ -303,7 +303,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 17px 0;
   color: #fff;
   width: 100%;
-  font-size: calc(15px + 0.390625vw);
+  font-size: 17px;
   letter-spacing: 0.8px;
   font-weight: 500;
   position: relative;
@@ -431,7 +431,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 17px 0;
   color: #fff;
   width: 100%;
-  font-size: calc(15px + 0.390625vw);
+  font-size: 17px;
   letter-spacing: 0.8px;
   font-weight: 500;
   position: relative;
