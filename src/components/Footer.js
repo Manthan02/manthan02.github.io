@@ -16,9 +16,7 @@ export const Footer = () => {
               <Row className="align-items-center">
                 <Col>
                   <a href="mailto:patelmanthan291997@gmail.com" target="_blank"><h6>Contact at: patelmanthan291997@gmail.com</h6></a>
-                </Col>
-                <Col className="resume">
-               <a href={resume} download><h6>Resume: Manthan Patel</h6></a> 
+                  <a href={resume} download><h6>Resume: Manthan Patel</h6></a> 
                 </Col>
                   <Col size={12} sm={6} className="text-center text-sm-end">
                     <div className="social-icon">
