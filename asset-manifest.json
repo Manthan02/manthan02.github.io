@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.92ddd8fc.css",
-    "main.js": "/static/js/main.b53a58ca.js",
+    "main.js": "/static/js/main.7a5c4817.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/bg.png": "/static/media/bg.227dea9390d5b4870703.png",
     "static/media/pro01.png": "/static/media/pro01.55f597117c283d1f0b4d.png",
@@ -9,7 +9,7 @@
     "static/media/Hind-Light.ttf": "/static/media/Hind-Light.24b3cba72f468690ce13.ttf",
     "static/media/Hind-Bold.ttf": "/static/media/Hind-Bold.ba5def1986599e839e18.ttf",
     "static/media/Hind-Medium.ttf": "/static/media/Hind-Medium.099004e46ccd804f079b.ttf",
-    "static/media/Manthan_Patel.pdf": "/static/media/Manthan_Patel.7562f570cfc91325f0bd.pdf",
+    "static/media/Manthan_Patel.pdf": "/static/media/Manthan_Patel.2879553dcaabb3708e49.pdf",
     "static/media/srvbg.jpg": "/static/media/srvbg.c0c89d6ab7669dd3e3ed.jpg",
     "static/media/srvbg2.png": "/static/media/srvbg2.10862f3878557eeb87ca.png",
     "static/media/srvbg1.jpg": "/static/media/srvbg1.2d7c01e16c050ef5ffee.jpg",
@@ -26,11 +26,11 @@
     "index.html": "/index.html",
     "static/media/fb.svg": "/static/media/fb.0213698e27c253fd38d7c52ac54fe44b.svg",
     "main.92ddd8fc.css.map": "/static/css/main.92ddd8fc.css.map",
-    "main.b53a58ca.js.map": "/static/js/main.b53a58ca.js.map",
+    "main.7a5c4817.js.map": "/static/js/main.7a5c4817.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92ddd8fc.css",
-    "static/js/main.b53a58ca.js"
+    "static/js/main.7a5c4817.js"
   ]
 }
