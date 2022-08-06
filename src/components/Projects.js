@@ -15,7 +15,7 @@ export const Projects = () =>{
             title: "my personal portfolio",
             description: "my personal potfolio in react.",
             imgurl: pro01,
-            url: "https://www.youtube.com/",
+            url: "https://github.com/Manthan02/manthan02.github.io",
         },
     ];
     const projects02 =[
@@ -25,7 +25,7 @@ export const Projects = () =>{
             title: "my personal portfolio",
             description: "my personal potfolio in react.",
             imgurl: pro01,
-            url: "https://www.youtube.com/",
+            url: "https://github.com/Manthan02/manthan02.github.io",
 
         },
     ];
