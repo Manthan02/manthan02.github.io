@@ -298,7 +298,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 33.33333%;
 }
 .services .nav.nav-pills .nav-link {
-  background-color: #000;
+  background-color: transparent;
   border-radius: 0;
   padding: 17px 0;
   color: #fff;
