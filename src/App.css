@@ -189,7 +189,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 }
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 	border-color: transparent;
-}
+} 
 
 /************ Banner Css ************/
 .banner {
@@ -266,7 +266,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Services Css ************/
 
 .services {
-  padding: 50px;
+  padding: 50px 0;
   position: relative;
   background-image: url('./assets/img/bg001.png');
   background-position: top center;
@@ -303,7 +303,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 17px 0;
   color: #fff;
   width: 100%;
-  font-size: 17px;
+  font-size: calc(12px + 0.390625vw);
   letter-spacing: 0.8px;
   font-weight: 500;
   position: relative;
@@ -394,7 +394,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Projects Css ************/
 .projects {
-  padding: 50px;
+  padding: 50px 0;
   position: relative;
   background-image: url('./assets/img/bg001.png');
   background-position: top center;
@@ -431,7 +431,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 17px 0;
   color: #fff;
   width: 100%;
-  font-size: 17px;
+  font-size: calc(12px + 0.390625vw);
   letter-spacing: 0.8px;
   font-weight: 500;
   position: relative;
