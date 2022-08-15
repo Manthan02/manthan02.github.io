@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e6f0f2a7.css",
-    "main.js": "/static/js/main.8ea0f170.js",
+    "main.js": "/static/js/main.c909a633.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/bg.png": "/static/media/bg.227dea9390d5b4870703.png",
+    "static/media/physiodoc.png": "/static/media/physiodoc.49f43eee893a6a20c9d7.png",
     "static/media/pro01.png": "/static/media/pro01.55f597117c283d1f0b4d.png",
     "static/media/bg001.png": "/static/media/bg001.02b8ed0cd029507f9122.png",
     "static/media/Hind-Light.ttf": "/static/media/Hind-Light.24b3cba72f468690ce13.ttf",
@@ -26,11 +27,11 @@
     "index.html": "/index.html",
     "static/media/fb.svg": "/static/media/fb.0213698e27c253fd38d7c52ac54fe44b.svg",
     "main.e6f0f2a7.css.map": "/static/css/main.e6f0f2a7.css.map",
-    "main.8ea0f170.js.map": "/static/js/main.8ea0f170.js.map",
+    "main.c909a633.js.map": "/static/js/main.c909a633.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6f0f2a7.css",
-    "static/js/main.8ea0f170.js"
+    "static/js/main.c909a633.js"
   ]
 }
