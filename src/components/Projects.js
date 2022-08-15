@@ -5,6 +5,7 @@ import Nav from "react-bootstrap/Nav";
 import Tab from "react-bootstrap/Tab";
 import ProjectCard from "./ProjectCard";
 import pro01 from "../assets/img/pro01.png";
+import pro02 from "../assets/img/physiodoc.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -17,6 +18,12 @@ export const Projects = () =>{
             imgurl: pro01,
             url: "https://github.com/Manthan02/manthan02.github.io",
         },
+        {
+            title: "Physiodoc",
+            description: "Physiodoc potfolio for health blogging with search functionality.",
+            imgurl: pro02,
+            url: "",
+        },
     ];
     const projects02 =[
     ];
@@ -27,6 +34,12 @@ export const Projects = () =>{
             imgurl: pro01,
             url: "https://github.com/Manthan02/manthan02.github.io",
 
+        },
+        {
+            title: "Physiodoc",
+            description: "Physiodoc potfolio for health blogging with search functionality.",
+            imgurl: pro02,
+            url: "",
         },
     ];
 

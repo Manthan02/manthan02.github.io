@@ -23,7 +23,7 @@ export const Footer = () => {
                       <a href="https://www.linkedin.com/in/manthan-patel-137689168/" target="_blank"><img src={linkedin} alt="" /></a>
                       <a href="https://github.com/Manthan02" target="_blank"><img src={github} alt="" /></a>
                       <a href="https://www.youtube.com/channel/UCcEQV6yax6fSswcDIUW_RWw" target="_blank"><img src={yt} alt="" /></a>
-                      <a href="https://www.instagram.com/manthan_02/" target="_blank"><img src={insta} alt="" /></a>
+                      <a href="https://www.instagram.com/err0r02/" target="_blank"><img src={insta} alt="" /></a>
                       <a href="https://www.facebook.com/Manthan0209/" target="_blank"><img src={fb} alt="" /></a>
                       </div>
                   </Col>
